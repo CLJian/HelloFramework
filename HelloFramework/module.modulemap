@@ -1,0 +1,4 @@
+module Hello {
+    header "THeader.h"
+    export *
+}
